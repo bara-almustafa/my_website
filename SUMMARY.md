@@ -9,3 +9,4 @@
   * [Active Directory Penetration Testing Methodology](methodologies-of-pentest/active-directory-penetration-testing-methodology/README.md)
     * [Active Directory (On-Perm)](methodologies-of-pentest/active-directory-penetration-testing-methodology/active-directory-on-perm/README.md)
       * [Unauthenticated Information Gathering - methodology 1](methodologies-of-pentest/active-directory-penetration-testing-methodology/active-directory-on-perm/unauthenticated-information-gathering-methodology-1.md)
+  * [Cloud Penetration Testing Methodology](methodologies-of-pentest/cloud-penetration-testing-methodology.md)
